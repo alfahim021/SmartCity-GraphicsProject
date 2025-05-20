@@ -70,8 +70,7 @@ See the `report/SmartCity.docx` file for a detailed project report describing th
 
 ## Author
 
-[Your Name]  
-[Your Contact or GitHub Link]
+Al Fahim
 
 ---
 
